@@ -1,0 +1,8 @@
+bills, 1000, 1500
+dining, 150, 350
+entertainment, 100, 300
+grocery, 250, 350
+health, 300, 500
+savings, 750, 1000
+shopping, 50, 200
+transportation, 250, 500
